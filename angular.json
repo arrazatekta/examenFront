@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "examenFront"
+    }
+  },
+  "defaultProject": "examenFront",
+  "cli": {
+    "analytics": "43c77966-5bdf-4e98-90b6-af8099812ee4"
+  }
 }
